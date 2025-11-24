@@ -16,7 +16,7 @@ Using Power BI, I created a dashboard showcasing customer satisfaction scores fr
 1. Proportions of customers across different segments such as flight class, age split, cutomer type and purpose of travel.
 2. Key dissatisfied customer segements.
 3. Major contributors to customer dissatisfaction.
-4. Strategic recommendations to imrpove customer satisfaction across those 3 major contributors.
+4. Strategic recommendations to improve customer satisfaction across those 3 major contributors.
 <img width="774" alt="final_report" src="https://github.com/johnuzoma/Uji-Airline-Passenger-Satisfaction/assets/18267074/c361e000-ccb0-4cdb-9c11-03513b647cf7">
 
 ### Solution Deliverables
